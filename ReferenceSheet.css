@@ -41,3 +41,7 @@
 #Gamification {
     background-color: green;
 }
+
+body {
+ background: linear-gradient(180deg, rgba(254,255,229,1) 25%, rgba(255,220,220,1)100%);
+}
